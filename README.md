@@ -1,82 +1,113 @@
-<!-- Banner -->
+<!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&size=35&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+J.+Aswin+J.;Developer+%7C+AI+Learner+%7C+Tech+Explorer" />
-</p>
-
-<!-- Social badges -->
-<p align="center">
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?style=flat&color=blue"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=32&duration=3000&color=9A7BFF&center=true&vCenter=true&width=700&lines=Hi+I'm+ASWIN+J+👋;Student+%7C+Problem+Solver+%7C+Tech+Explorer;AI+%26+ML+Enthusiast+%7C+DSA+Learner">
 </p>
 
 ---
 
-## 🚀 About Me
-🌟 Passionate Developer  
-🤖 AI & Machine Learning Learner  
-💻 DSA | Python | Java | Web Dev  
-⚡ Love building real-world projects & solving LeetCode problems  
+## 🌸 About Me
+
+💡 **Student & Tech Enthusiast**  
+⚙️ Passionate about **Machine Learning**, **Neural Networks**, and **DSA**  
+🧠 I love building **AI-driven applications**  
+🎧 I enjoy **music** & 🏋️ **gym**  
+✨ Aesthetic + Clean + Functional = My style
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Tech Stack
 
 ### 🔹 Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python&theme=light" />
 </p>
 
-### 🔹 Tools & Frameworks  
+### 🔹 Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,git,github,vscode,postgres" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mysql" />
 </p>
+
+### 🔹 Strong Areas  
+- 🧩 **DSA**
+- 🤖 **Machine Learning**
+- 🧬 **Neural Networks**
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Featured Projects
+
+### 1️⃣ 🌙 **DreamLens AI**
+> A web application where users enter their dreams and receive **psychological meaning** of their dreams.  
+> It works like an **AI-powered chatbot** with intelligent reasoning.
+
+#### 🔧 Features
+- AI-powered dream interpretation  
+- Chatbot interface  
+- Clean UI + Aesthetic theme  
+
+#### 📷 Visual Preview  
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://via.placeholder.com/700x300/cebaff/ffffff?text=DreamLens+AI+Preview" width="70%" />
 </p>
 
 ---
 
-## 🔥 Streak  
+### 2️⃣ 💊 **PharmTrack AI**
+> A smart medical assistant web app for patients to **track their medicines**, get **AI health answers**, and use **Google Maps** to find nearby hospitals.
+
+#### 🔧 Features
+- Medicine reminder system  
+- Medical chatbot  
+- Google Maps Hospital Locator  
+- Automatic emergency calling  
+
+#### 📷 Visual Preview  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=tokyonight" />
+  <img src="https://via.placeholder.com/700x300/a7c7e7/ffffff?text=PharmTrack+AI+Preview" width="70%" />
 </p>
 
 ---
 
-## 🏗️ Featured Projects  
-### 🔥 Fake Job Posting Classifier  
-AI-powered model to detect fraudulent job listings.
+## 📊 GitHub Stats
 
-### 🧮 Java OOP Practice  
-Projects covering inheritance, polymorphism, interfaces, and exception handling.
-
-### 🤖 Machine Learning Algorithms  
-ML algorithms implemented from scratch (KNN, K-Means, Decision Trees, etc.)
-
----
-
-## 🌀 Fun Animated Section  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aswinJ15&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinJ15&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📩 Connect With Me  
-📧 Email: **yourmail@example.com**  
-📌 LinkedIn: **your-linkedin-url**
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aswinJ15&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## ✨ Quote of the Day  
-> "Consistency beats talent when talent doesn’t work hard."
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/aswin-j-bab85b297">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/Aswin06-11-2005/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="mailto:aswin11a107.2122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9A7BFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### ⭐ If you like my profile, don’t forget to star ⭐ some repos!
+## ✨ Daily Quote  
+> “A problem solver is unstoppable when passion meets consistency.”
+
+---
+
+<p align="center">
+  ⭐ **Thanks for visiting my profile!** ⭐  
+</p>

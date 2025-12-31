@@ -5,7 +5,7 @@
 
 ---<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&size=35&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+J.+Aswin+J.;Developer+%7C+AI+Learner+%7C+Tech+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Spectral&size=35&color=00BFFF&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Aswin+J.;Developer+%7C+AI+Learner+%7C+Tech+Explorer" />
 </p>
 
 <!-- Social Badges -->

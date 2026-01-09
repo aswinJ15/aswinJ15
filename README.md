@@ -34,12 +34,12 @@
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,git,github,vscode,postgres,pytorch,tensorflow,mysql" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,flask,git,github,vscode,pytorch,tensorflow,mysql" />
 </p>
 
 ### Expertise
